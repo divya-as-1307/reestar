@@ -9,6 +9,6 @@ Features:
 
 Technologies User: Html and CSS
 
-You can visit my Reestar website using the [link]
+You can visit my Reestar website using the https://divya-as-1307.github.io/reestar/ 
 
 Thank you for choosing Reestar for your food ordering needs!!
